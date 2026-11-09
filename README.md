@@ -31,3 +31,8 @@ O projeto utiliza um fluxo de trabalho baseado em GitFlow:
 As alterações são integradas por meio de Pull Requests, seguindo o fluxo:
 
 `feature/*` → `develop` → `stage` → `main`
+
+## Exercícios de Docker
+
+Os exercícios estão organizados no diretório `docker/`, incluindo
+Dockerfile, Docker Compose, PostgreSQL, ambientes dev/prod e pgAdmin.
